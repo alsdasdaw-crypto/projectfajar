@@ -1,0 +1,4 @@
+default_fqbn: arduino:avr:nano
+default_port: COM4
+default_port_config:
+  baudrate: 115200
